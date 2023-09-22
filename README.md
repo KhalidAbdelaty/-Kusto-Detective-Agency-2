@@ -1,6 +1,6 @@
 # Case Two - Election Fraud?
 
-![[2](https://github.com/KhalidAbdelaty/-Kusto-Detective-Agency-2/blob/main/222)]
+![Badge](https://github.com/KhalidAbdelaty/-Kusto-Detective-Agency-2/blob/main/photo_2023-09-23_01-07-43.jpg)
 
 ## Table of Contents
 1. [The Case](#the-case)
@@ -27,6 +27,8 @@ Votes
 | render columnchart with (series=vote)
 ```
 
+![Prove](https://github.com/KhalidAbdelaty/-Kusto-Detective-Agency-2/blob/main/Prove.jpg)
+
 There's something rather fishy going on here. And perhaps, Gaul may have had some involvement in vote rigging as well?
 
 ## Solving
@@ -46,7 +48,7 @@ Votes
 So, let's put it to the test:
 
 
-markdown
+
 | Vote   | Percentage | Count    |
 |--------|------------|----------|
 | Poppy  | 51.7       | 2,601,570  |
@@ -73,7 +75,7 @@ Votes
 
 ```
 
-markdown
+
 | Vote   | Percentage | Count    |
 |--------|------------|----------|
 | Kastor | 50.8       | 1,284,188  |
@@ -83,3 +85,5 @@ markdown
 
 
 There might be a more sophisticated approach involving fancy machine learning in Kusto, but as I mentioned earlier, I'm no Matt Parker.
+
+&copy; Khalid Abdelaty 2023
