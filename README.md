@@ -1,6 +1,6 @@
 # Case Two - Election Fraud?
 
-![Insert Picture Here]
+![[2](https://github.com/KhalidAbdelaty/-Kusto-Detective-Agency-2/blob/main/222)]
 
 ## Table of Contents
 1. [The Case](#the-case)
